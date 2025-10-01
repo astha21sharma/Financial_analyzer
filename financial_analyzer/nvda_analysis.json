@@ -1,0 +1,43 @@
+{
+  "ticker": "NVDA",
+  "generated_at": "2025-10-01T22:03:09.109623",
+  "price_rows_count": 1255,
+  "fundamentals_used": "quarterly_balance_sheet",
+  "signals": [
+    {
+      "date": "2020-12-14T00:00:00",
+      "signal_type": "golden_cross",
+      "meta": {}
+    },
+    {
+      "date": "2021-02-17T00:00:00",
+      "signal_type": "golden_cross",
+      "meta": {}
+    },
+    {
+      "date": "2023-01-24T00:00:00",
+      "signal_type": "golden_cross",
+      "meta": {}
+    },
+    {
+      "date": "2025-06-27T00:00:00",
+      "signal_type": "golden_cross",
+      "meta": {}
+    },
+    {
+      "date": "2020-12-16T00:00:00",
+      "signal_type": "death_cross",
+      "meta": {}
+    },
+    {
+      "date": "2022-04-20T00:00:00",
+      "signal_type": "death_cross",
+      "meta": {}
+    },
+    {
+      "date": "2025-03-20T00:00:00",
+      "signal_type": "death_cross",
+      "meta": {}
+    }
+  ]
+}
